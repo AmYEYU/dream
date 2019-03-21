@@ -14,9 +14,9 @@ class Config(object):
 
     SECREY_KEY = 'secret_key'
 
-    SESSION_TYPE = 'redis'
-
-    SESSION_REDIS = redis.Redis(host='127.0.0.1', port=6379)
+    # SESSION_TYPE = 'redis'
+    #
+    # SESSION_REDIS = redis.Redis(host='127.0.0.1', port=6379)
 
     SESSION_KEY_PREFIX = 'lyyc_'
 

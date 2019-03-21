@@ -22,8 +22,8 @@ DATABASE = {
     'HOST': '127.0.0.1',
     # 数据库
     'DB': 'mysql',
-    # 驱动
-    'DRIVER': 'pymysql',
+    # 驱动 mysqlconnector pymysql
+    'DRIVER': 'mysqlconnector',
     # 数据库名称
-    'NAME': 'lovehome'
+    'NAME': 'laoye'
 }
