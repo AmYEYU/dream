@@ -25,5 +25,5 @@ DATABASE = {
     # 驱动 mysqlconnector pymysql
     'DRIVER': 'mysqlconnector',
     # 数据库名称
-    'NAME': 'laoye'
+    'NAME': 'ecshop'
 }
