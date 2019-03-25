@@ -57,6 +57,7 @@ class MySqlPipline(object):
 
     def execute_sql(self, sql, item):
         '''
+        insert or update or delete
         :param sql:
         :param item:
         :return:
